@@ -1,4 +1,4 @@
-![product_list_screen](https://github.com/user-attachments/assets/cb24ddb4-48d7-4955-9379-d1772421e209)# Flutter Frontend
+# Flutter Frontend
 
 A complete Flutter application for managing products with CRUD operations, built with Provider state management and connected to an Express.js backend with SQL Server.
 
